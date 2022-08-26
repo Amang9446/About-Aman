@@ -2,4 +2,4 @@
 
 Made my first website (About me)
 
-[credit](https://github.com/hpnightowl)
+[credits Tap Here](https://github.com/hpnightowl)
