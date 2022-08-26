@@ -19,18 +19,18 @@ body {
   justify-content: center;
   width: 100%;
   height: 100vh;
-  background: linear-gradient(rgb(243, 76, 64), rgba(206, 209, 23, 0.712));
+  background: linear-gradient(rgb(80, 228, 215), rgba(6, 69, 88, 0.712));
 }
 
 code, .card .line-numbers {
-  font-family: "Lucida Console", Monaco, monospace;
-  font-size: 14px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 30px;
 }
 
 .card {
   position: relative;
-  width: 30rem;
-  height: 20rem;
+  width: 50rem;
+  height: 35rem;
   perspective: 150rem;
 }
 .card-front, .card-back {
@@ -41,11 +41,11 @@ code, .card .line-numbers {
   align-items: center;
   justify-content: center;
   margin: auto;
-  border-radius: 5px;
-  box-shadow: 0 1.5rem 4rem rgba(248, 248, 248, 0.4);
+  border-radius: 15px;
+  box-shadow: 0 1.5rem 4rem rgba(15, 109, 109, 0.4);
   transition: 0.9s cubic-bezier(0.25, 0.8, 0.25, 1);
   backface-visibility: hidden;
-  overflow: hidden;
+  
 }
 .card-front:before, .card-front:after, .card-back:before, .card-back:after {
   position: absolute;
@@ -71,13 +71,13 @@ code, .card .line-numbers {
 .card-front {
   width: 120%;
   height: 110%;
-  background: linear-gradient(45deg, #101010, #2c3e50);
+  background: linear-gradient(45deg, #19daa0, #2c3e50);
 }
 .card-front:after {
   color: #212f3c;
 }
 .card-back {
-  background: linear-gradient(-45deg, #101010, #2c3e50);
+  background: linear-gradient(-45deg,  #19daa0, #2c3e50);
   transform: rotateX(180deg);
   width: 120%;
   height: 110%;
@@ -106,8 +106,8 @@ code, .card .line-numbers {
   font-size: 13px;
 }
 .card .line-numbers > div {
-  padding: 2.5px 0;
-  opacity: 0.15;
+  padding: 15px 0;
+  opacity: 2;
 }
 .card code, .card .line-numbers {
   color: whitesmoke;
