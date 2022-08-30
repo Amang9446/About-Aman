@@ -18,8 +18,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 100%;
-  height: 120vh;
+  width: 200vh;
+  height: 130vh;
   background: linear-gradient(rgb(80, 228, 215), rgba(6, 69, 88, 0.712));
 }
 
