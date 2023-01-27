@@ -1,9 +1,8 @@
-# amanWeb.github.io
+# Resume
 
-Made my first website (About me)
+Created a Portfolio
+Used CSS and HTML
+Hosted on Github Pages
 
-
-
-Credits [Tap Here](https://github.com/hpnightowl/hpnightowl.github.io)<br />
 
 [About Aman](https://amang9446.github.io/Resume/)
