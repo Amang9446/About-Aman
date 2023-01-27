@@ -1,7 +1,7 @@
 # Resume
 
-Created a Portfolio
-Used CSS and HTML
+Created a Portfolio</br>
+Used CSS and HTML</br>
 Hosted on Github Pages
 
 
