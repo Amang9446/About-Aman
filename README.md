@@ -1,4 +1,4 @@
-# Resume
+# About Aman
 
 Created a Portfolio</br>
 Used CSS and HTML</br>
